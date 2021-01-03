@@ -1,0 +1,9 @@
+public class FirstMethod
+{
+public static void main (string[]args){
+StringBuilder a=new StringBuilder("aarti");
+StringBuilder b=a.insert(0,"dubey");
+system.out.println(b)
+
+}
+}
