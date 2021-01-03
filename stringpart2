@@ -1,0 +1,16 @@
+
+// joining two strings
+public class main {
+public static void main(string[]args){
+
+// create first string
+string name = "aakash";
+system.out.println("first string : "+name);
+
+// create second
+string tittle = "sharma";
+system.out.println("second string: "+tittle);
+
+// join two strings
+string fullname = name.concat(tittle);
+system.out.println("joined string: "+ fullname);
