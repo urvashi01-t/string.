@@ -1,0 +1,9 @@
+public class Delete 
+{
+public static void main(string[]args){
+StringBuilder a= new StringBuilder("urvashi");
+StringBuilder b=a.delete(0,3);
+system.out.println(b);
+
+}
+}
